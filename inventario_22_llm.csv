@@ -1,0 +1,23 @@
+﻿id_modelo,nombre_modelo,etiqueta_ollama
+M01,Qwen2.5 7B,qwen2.5:7b
+M02,Ministral 3 8B Instruct 2512,ministral-3:8b-instruct-2512-q4_K_M
+M03,Granite 4.2 8B,granite4.2:8b-q4_K_M
+M04,Qwen3.5 9B,qwen3.5:9b-q4_K_M
+M05,Gemma 4 12B IT,gemma4:12b-it-q4_K_M
+M06,Phi-4 Mini 3.8B,phi4-mini:3.8b-q4_K_M
+M07,Granite 4.2 3B,granite4.2:3b-q4_K_M
+M08,Qwen3.5 4B,qwen3.5:4b-q4_K_M
+M09,Llama 3.1 8B Instruct,llama3.1:8b-instruct-q4_K_M
+M10,DeepSeek-R1 0528 Qwen3 8B,deepseek-r1:8b-0528-qwen3-q4_K_M
+M11,Phi-4 14B,phi4:14b-q4_K_M
+M12,Ministral 3 14B Instruct 2512,ministral-3:14b-instruct-2512-q4_K_M
+M13,Qwen2.5 14B Instruct,qwen2.5:14b-instruct-q4_K_M
+M14,Command R7B 12-2024,command-r7b:7b-12-2024-q4_K_M
+M15,Qwen3.8 27B,qwen3.8:27b-q4_K_M
+M16,Gemma 4 26B A4B IT,gemma4:26b-a4b-it-qat
+M17,gpt-oss 20B,gpt-oss:20b
+M18,Mistral Small 3.2 24B Instruct 2506,mistral-small3.2:24b-instruct-2506-q4_K_M
+M19,Qwen3 30B A3B Instruct 2507,qwen3:30b-a3b-instruct-2507-q4_K_M
+M20,Gemma 4 31B IT,gemma4:31b-it-qat
+M21,Granite 4.2 30B,granite4.2:30b-q4_K_M
+M22,LFM2.5 8B A1B,lfm2.5:8b-a1b-q4_K_M

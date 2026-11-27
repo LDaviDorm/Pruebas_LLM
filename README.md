@@ -1,2 +1,2 @@
 # Pruebas_LLM
-Pruebas de 22 LLM para seleccionar el que genere justificaciones de coautoría con evidencia de las publicaciones de ambos autores.
+Se compararán 22 modelos de lenguaje para seleccionar el que se utilizará en el módulo de justificación semántica. Para cada par de autores, el módulo seleccionará las publicaciones, solicitará a AnaliTexGra la comparación de sus resúmenes o palabras clave y entregará al LLM el resultado de coautoría, las similitudes y los textos comparados. Se evaluará si el LLM identifica coincidencias respaldadas por publicaciones de ambos autores y si reconoce cuándo falta evidencia.
